@@ -1,0 +1,14 @@
+account
+  -current balance
+  -total income
+  -final balance
+  -total expenses
+
+  -has many transactions
+transaction
+  -overdraft fee
+  -date
+  -amount
+  -description
+  -date
+  -overraft fee
